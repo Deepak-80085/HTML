@@ -20,28 +20,6 @@ Cosmic Explorer is an interactive web application that takes users on a journey 
 - **Font Awesome**: Icons for enhanced visual experience
 - **Google Fonts**: Custom typography with Orbitron and Roboto fonts
 
-## Getting Started
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/cosmic-explorer.git
-   ```
-
-2. Open the project directory:
-   ```
-   cd cosmic-explorer
-   ```
-
-3. Open `index.html` in your web browser:
-   ```
-   open index.html  # macOS
-   start index.html  # Windows
-   ```
-
-Alternatively, you can use a local server to run the application:
-```
-npx serve  # If you have Node.js installed
-```
 
 ## Project Structure
 
