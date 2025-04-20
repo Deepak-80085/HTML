@@ -1,6 +1,6 @@
 # Simple Web Project
 
-A clean, responsive website template built with HTML, CSS, and JavaScript.
+A responsive website template built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -20,25 +20,3 @@ web-project/
 └── README.md      # This file
 ```
 
-## How to Use
-
-1. Clone or download this repository
-2. Open the `index.html` file in your browser
-
-## Customization
-
-- Edit the HTML in `index.html` to change the content
-- Modify styles in `styles.css` to adjust the appearance
-- Update functionality in `script.js` to change behavior
-
-## Browser Compatibility
-
-This project is designed to work on all modern browsers:
-- Chrome
-- Firefox
-- Safari
-- Edge
-
-## License
-
-This project is open source and available for personal and commercial use. 
